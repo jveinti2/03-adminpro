@@ -3,8 +3,6 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-nopagefound',
   templateUrl: './nopagefound.component.html',
-  styles: ``
+  styleUrl: './nopagefound.component.css',
 })
-export class NopagefoundComponent {
-
-}
+export class NopagefoundComponent {}
